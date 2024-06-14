@@ -1,2 +1,3 @@
 # SimpleLeaderLineTool-Unity
 一个很简单的基于力导向布局的Unity Leader Line的实现
+由于案例中我使用了Odin，所以当你拉取后会发现有些脚本正在报错，请自行修改。
